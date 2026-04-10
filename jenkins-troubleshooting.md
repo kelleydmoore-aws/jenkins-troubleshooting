@@ -40,7 +40,5 @@
 
 ![page transition gif](./images/.gif)
 
-- Done.  
-
 
 	
